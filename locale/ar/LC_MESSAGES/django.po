@@ -1,0 +1,165 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-19 04:21+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+#: .\apps\Programs\models.py:6 .\apps\accounts\models.py:5
+msgid "diploma"
+msgstr ""
+
+#: .\apps\Programs\models.py:7 .\apps\accounts\models.py:6
+msgid "bachelor"
+msgstr ""
+
+#: .\apps\Programs\models.py:8 .\apps\accounts\models.py:7
+msgid "master"
+msgstr ""
+
+#: .\apps\Programs\models.py:9 .\apps\accounts\models.py:8
+msgid "phd"
+msgstr ""
+
+#: .\apps\Programs\models.py:13
+msgid "Program Name"
+msgstr ""
+
+#: .\apps\Programs\models.py:14 .\apps\departments\models.py:21
+msgid "Department"
+msgstr ""
+
+#: .\apps\Programs\models.py:15
+msgid "Program degree Type"
+msgstr ""
+
+#: .\apps\Programs\models.py:16
+msgid "Program duration in years"
+msgstr ""
+
+#: .\apps\Programs\models.py:17
+msgid "Program Description"
+msgstr ""
+
+#: .\apps\Programs\models.py:18
+msgid "Study System"
+msgstr ""
+
+#: .\apps\Programs\models.py:21
+msgid "Program"
+msgstr ""
+
+#: .\apps\Programs\models.py:22
+msgid "Programs"
+msgstr ""
+
+#: .\apps\Programs\models.py:36
+msgid "Program Level"
+msgstr ""
+
+#: .\apps\Programs\models.py:37
+msgid "Program Levels"
+msgstr ""
+
+#: .\apps\Programs\models.py:41
+msgid "first level"
+msgstr ""
+
+#: .\apps\Programs\models.py:42
+msgid "second level"
+msgstr ""
+
+#: .\apps\Programs\models.py:43
+msgid "third level"
+msgstr ""
+
+#: .\apps\Programs\models.py:44
+msgid "fourth level"
+msgstr ""
+
+#: .\apps\Programs\models.py:45
+msgid "fifth level"
+msgstr ""
+
+#: .\apps\Programs\models.py:46
+msgid "sixth level"
+msgstr ""
+
+#: .\apps\Programs\models.py:47
+msgid "seventh level"
+msgstr ""
+
+#: .\apps\Programs\models.py:50
+#, python-format
+msgid "Level %(level)s"
+msgstr ""
+
+#: .\apps\Programs\models.py:53
+#, python-format
+msgid "%(program)s - %(level_name)s"
+msgstr ""
+
+#: .\apps\departments\models.py:12
+msgid "Department Code"
+msgstr ""
+
+#: .\apps\departments\models.py:13
+msgid "Department Name"
+msgstr ""
+
+#: .\apps\departments\models.py:14
+msgid "College"
+msgstr ""
+
+#: .\apps\departments\models.py:16
+msgid "Department Description"
+msgstr ""
+
+#: .\apps\departments\models.py:17
+msgid "Department Image"
+msgstr ""
+
+#: .\apps\departments\models.py:18
+msgid "Department Vision"
+msgstr ""
+
+#: .\apps\departments\models.py:19
+msgid "Department Message"
+msgstr ""
+
+#: .\apps\departments\models.py:22
+msgid "Departments"
+msgstr ""
+
+#: .\apps\university\models.py:14
+msgid "Detail Title"
+msgstr ""
+
+#: .\apps\university\models.py:15
+msgid "Detail subtitle"
+msgstr ""
+
+#: .\apps\university\models.py:16
+msgid "University"
+msgstr ""
+
+#: .\project\settings\base.py:71
+msgid "English"
+msgstr ""
+
+#: .\project\settings\base.py:72
+msgid "Arabic"
+msgstr ""
